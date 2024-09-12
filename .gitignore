@@ -1,0 +1,7 @@
+/Sounds
+/Spectrograms
+/UrbanSound8K
+*.mp4
+*.png
+*.wav
+*.h5
